@@ -17,7 +17,7 @@
 
 ## Swords⚔️ & Sheilds🛡:
 * ![C](https://img.shields.io/badge/-C-000?&logo=c&color=003399) ![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus&color=blue)
-* ![Python](https://img.shields.io/badge/-Python-000?&logo=python&color=d8b125&logoColor=346d9d) ![pytorch](https://img.shields.io/badge/-PyTorch-000?&logo=pytorch) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=tensorflow&color=)
+* ![Python](https://img.shields.io/badge/-Python-000?&logo=python&color=d8b125&logoColor=346d9d) ![pytorch](https://img.shields.io/badge/-PyTorch-000?&logo=pytorch) 
 * ![Java](https://img.shields.io/badge/-Java-000?color=b01719) ![Java](https://img.shields.io/badge/-SpringBoot-000?&logo=springboot&color=ffffff)  
 * ![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=solidity&color=65afff&logoColor=172533) 
 
