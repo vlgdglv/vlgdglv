@@ -25,7 +25,10 @@
 <br>
 
 ## Stats📉 & Achievements🏆
-Empty for now but will be full little by little🤘👊💪
+<!-- Empty for now but will be full little by little🤘👊💪-->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <br>
 
