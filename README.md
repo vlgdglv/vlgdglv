@@ -28,7 +28,7 @@
 <!-- Empty for now but will be full little by little🤘👊💪-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C357%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C364%20hrs%2030%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -52,7 +52,7 @@ Windows                  10 hrs 39 mins      ██████░░░░░�
 ```
 
 
- Last Updated on 07/12/2024 01:14:58 UTC
+ Last Updated on 08/12/2024 01:21:21 UTC
 <!--END_SECTION:waka-->
 
 <br>
