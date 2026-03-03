@@ -36,21 +36,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 47 mins       ██████████████░░░░░░░░░░░   56.20 % 
-YAML                     1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
-Other                    22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-CSV                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-Text                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+Python                   3 hrs 22 mins       ████████████░░░░░░░░░░░░░   47.89 % 
+YAML                     1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Markdown                 41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+Bash                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+CSV                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 58 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 2 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 58 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/03/2026 01:55:56 UTC
+ Last Updated on 03/03/2026 01:58:27 UTC
 <!--END_SECTION:waka-->
 
 <br>
