@@ -36,23 +36,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 44 mins       ███████████░░░░░░░░░░░░░░   42.09 % 
-Markdown                 1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
-Bash                     1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-CSV                      1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-JSON                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+Python                   5 hrs 29 mins       ██████████████░░░░░░░░░░░   55.20 % 
+Markdown                 1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Bash                     1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+CSV                      1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 27 mins       ████████████████████████░   95.03 % 
-Cursor                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+VS Code                  8 hrs 22 mins       █████████████████████░░░░   84.20 % 
+Cursor                   1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
 
 💻 Operating System: 
-Linux                    8 hrs 22 mins       ███████████████████████░░   93.97 % 
-Mac                      32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+Linux                    9 hrs 25 mins       ████████████████████████░   94.61 % 
+Mac                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
 ```
 
 
- Last Updated on 09/03/2026 01:57:44 UTC
+ Last Updated on 10/03/2026 01:50:15 UTC
 <!--END_SECTION:waka-->
 
 <br>
