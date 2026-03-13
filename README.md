@@ -28,7 +28,7 @@
 <!-- Empty for now but will be full little by little🤘👊💪-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C160%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C165%20hrs%2050%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -36,23 +36,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   14 hrs 54 mins      ███████████████████░░░░░░   74.71 % 
-Bash                     3 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-YAML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-CSV                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Python                   17 hrs 39 mins      ██████████████████░░░░░░░   71.90 % 
+Bash                     4 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+YAML                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+CSV                      19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+CMake                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 
 🔥 Editors: 
-Cursor                   10 hrs 34 mins      █████████████░░░░░░░░░░░░   53.05 % 
-VS Code                  9 hrs 21 mins       ████████████░░░░░░░░░░░░░   46.95 % 
+Cursor                   13 hrs 6 mins       █████████████░░░░░░░░░░░░   53.41 % 
+VS Code                  11 hrs 26 mins      ████████████░░░░░░░░░░░░░   46.59 % 
 
 💻 Operating System: 
-Linux                    19 hrs 51 mins      █████████████████████████   99.60 % 
-Mac                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Linux                    24 hrs 30 mins      █████████████████████████   99.83 % 
+Mac                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 ```
 
 
- Last Updated on 12/03/2026 01:55:51 UTC
+ Last Updated on 13/03/2026 01:54:30 UTC
 <!--END_SECTION:waka-->
 
 <br>
