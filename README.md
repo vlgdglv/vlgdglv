@@ -36,22 +36,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   10 hrs 56 mins      █████████████████░░░░░░░░   69.89 % 
-Bash                     2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-Other                    1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-YAML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-C++                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Python                   7 hrs 28 mins       █████████████████░░░░░░░░   69.48 % 
+Bash                     1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+Other                    38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+YAML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+C++                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 
 🔥 Editors: 
-Cursor                   14 hrs 34 mins      ███████████████████████░░   93.07 % 
-VS Code                  1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Cursor                   9 hrs 26 mins       ██████████████████████░░░   87.87 % 
+VS Code                  1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
 
 💻 Operating System: 
-Linux                    15 hrs 39 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/03/2026 02:07:18 UTC
+ Last Updated on 28/03/2026 01:59:12 UTC
 <!--END_SECTION:waka-->
 
 <br>
