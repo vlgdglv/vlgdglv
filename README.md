@@ -28,7 +28,7 @@
 <!-- Empty for now but will be full little by little🤘👊💪-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C225%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C230%20hrs%2017%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -36,22 +36,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   6 hrs 32 mins       █████████████░░░░░░░░░░░░   52.77 % 
-Bash                     2 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-HTML                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-Other                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-C++                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Python                   6 hrs 57 mins       ████████████░░░░░░░░░░░░░   48.73 % 
+Bash                     3 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
+HTML                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+Text                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+Other                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 23 mins      ███████████████████████░░   91.95 % 
-Unknown Editor           59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+VS Code                  13 hrs 17 mins      ███████████████████████░░   93.02 % 
+Unknown Editor           59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
 
 💻 Operating System: 
-Linux                    12 hrs 22 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/04/2026 02:12:54 UTC
+ Last Updated on 16/04/2026 02:28:50 UTC
 <!--END_SECTION:waka-->
 
 <br>
