@@ -28,7 +28,7 @@
 <!-- Empty for now but will be full little by little🤘👊💪-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C249%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C252%20hrs%2045%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -36,24 +36,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   8 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   31.77 % 
-Bash                     8 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   30.77 % 
-Other                    7 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   28.77 % 
-Markdown                 58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-JSON                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Bash                     8 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   31.69 % 
+Python                   8 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   31.30 % 
+Other                    8 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   29.39 % 
+Markdown                 1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+JSON                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 30 mins      ████████████████████████░   94.51 % 
-Unknown Editor           59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Cursor                   29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+VS Code                  27 hrs 24 mins      █████████████████████████   98.26 % 
+Cursor                   29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 
 💻 Operating System: 
-Linux                    26 hrs 30 mins      █████████████████████████   98.20 % 
-Mac                      29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Linux                    27 hrs 24 mins      █████████████████████████   98.26 % 
+Mac                      29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 ```
 
 
- Last Updated on 21/04/2026 02:25:57 UTC
+ Last Updated on 22/04/2026 02:23:55 UTC
 <!--END_SECTION:waka-->
 
 <br>
