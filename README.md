@@ -28,7 +28,7 @@
 <!-- Empty for now but will be full little by little🤘👊💪-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C310%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C310%20hrs%2015%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -36,24 +36,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   7 hrs 55 mins       ██████████████░░░░░░░░░░░   57.80 % 
-Bash                     2 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
-Other                    1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-CSV                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Python                   5 hrs 27 mins       ██████████████░░░░░░░░░░░   56.07 % 
+Bash                     1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+Other                    1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Markdown                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+CSV                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 
 🔥 Editors: 
-VS Code                  13 hrs              ████████████████████████░   94.90 % 
-Unknown Editor           38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-Cursor                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+VS Code                  9 hrs 13 mins       ████████████████████████░   94.69 % 
+Unknown Editor           27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+Cursor                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 💻 Operating System: 
-Linux                    13 hrs 35 mins      █████████████████████████   99.14 % 
-Mac                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Linux                    9 hrs 32 mins       █████████████████████████   98.04 % 
+Mac                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 ```
 
 
- Last Updated on 12/05/2026 02:45:23 UTC
+ Last Updated on 13/05/2026 02:51:04 UTC
 <!--END_SECTION:waka-->
 
 <br>
