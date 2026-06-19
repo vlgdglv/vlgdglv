@@ -36,21 +36,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      1 hr 17 mins        ████████████░░░░░░░░░░░░░   47.11 % 
-Python                   52 mins             ████████░░░░░░░░░░░░░░░░░   32.14 % 
-Text                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-YAML                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+C++                      1 hr 17 mins        ████████████████████████░   96.54 % 
+Python                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 43 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 19 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 43 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 19 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/06/2026 03:40:04 UTC
+ Last Updated on 19/06/2026 04:03:26 UTC
 <!--END_SECTION:waka-->
 
 <br>
