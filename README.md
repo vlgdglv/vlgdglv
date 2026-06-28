@@ -36,20 +36,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 51 mins             ████████████████████████░   95.21 % 
-C++                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Markdown                 2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  54 mins             █████████████████████████   100.00 % 
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    48 mins             ██████████████████████░░░   89.58 % 
-Mac                      5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+Mac                      2 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/06/2026 03:28:00 UTC
+ Last Updated on 28/06/2026 03:34:09 UTC
 <!--END_SECTION:waka-->
 
 <br>
