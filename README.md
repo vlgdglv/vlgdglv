@@ -36,21 +36,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   15 mins             ████████░░░░░░░░░░░░░░░░░   32.36 % 
-Bash                     11 mins             ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
-YAML                     10 mins             █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
-JSON                     10 mins             █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+HTML                     2 hrs 11 mins       ███████████████░░░░░░░░░░   61.57 % 
+JSON                     45 mins             █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
+Python                   15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 
 🔥 Editors: 
-VS Code                  46 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 47 mins        █████████████░░░░░░░░░░░░   50.20 % 
+Claude Code              1 hr 46 mins        ████████████░░░░░░░░░░░░░   49.80 % 
 
 💻 Operating System: 
-Linux                    46 mins             █████████████████████████   100.00 % 
+Linux                    3 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/07/2026 02:30:20 UTC
+ Last Updated on 13/07/2026 02:32:10 UTC
 <!--END_SECTION:waka-->
 
 <br>
