@@ -28,30 +28,10 @@
 <!-- Empty for now but will be full little by little🤘👊💪-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C348%20hrs%2032%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-HTML                     3 hrs 3 mins        █████████████░░░░░░░░░░░░   50.95 % 
-C++                      1 hr 18 mins        █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
-JSON                     1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-Python                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-
-🔥 Editors: 
-VS Code                  3 hrs 41 mins       ███████████████░░░░░░░░░░   61.26 % 
-Claude Code              2 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   38.74 % 
-
-💻 Operating System: 
-Linux                    6 hrs 1 min         █████████████████████████   100.00 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C349%20hrs%2014%20mins-blue?style=flat)
 
 
- Last Updated on 16/07/2026 02:22:56 UTC
+ Last Updated on 17/07/2026 02:25:34 UTC
 <!--END_SECTION:waka-->
 
 <br>
