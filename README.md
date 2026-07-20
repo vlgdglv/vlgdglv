@@ -36,22 +36,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-HTML                     3 hrs 3 mins        █████████████░░░░░░░░░░░░   51.60 % 
-C++                      1 hr 59 mins        ████████░░░░░░░░░░░░░░░░░   33.58 % 
-JSON                     52 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+C++                      1 hr 59 mins        ████████████████░░░░░░░░░   62.99 % 
+HTML                     52 mins             ███████░░░░░░░░░░░░░░░░░░   27.74 % 
+JSON                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 36 mins       ███████████████░░░░░░░░░░   60.77 % 
-Claude Code              2 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   39.23 % 
+VS Code                  2 hrs 36 mins       █████████████████████░░░░   82.26 % 
+Claude Code              33 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
 
 💻 Operating System: 
-Linux                    5 hrs 56 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/07/2026 02:27:29 UTC
+ Last Updated on 20/07/2026 02:42:50 UTC
 <!--END_SECTION:waka-->
 
 <br>
