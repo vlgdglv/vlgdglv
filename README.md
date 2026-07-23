@@ -28,7 +28,7 @@
 <!-- Empty for now but will be full little by little🤘👊💪-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C349%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C351%20hrs%2053%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -36,21 +36,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 39 mins       ████████████████████░░░░░   79.03 % 
-C++                      41 mins             █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Markdown                 2 hrs 39 mins       █████████████████████████   99.76 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 21 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 39 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 39 mins       ████████████████████░░░░░   79.11 % 
-Linux                    42 mins             █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
+Mac                      2 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/07/2026 02:24:46 UTC
+ Last Updated on 23/07/2026 02:29:50 UTC
 <!--END_SECTION:waka-->
 
 <br>
