@@ -38,27 +38,26 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   6 hrs 48 mins       █████████████████░░░░░░░░   66.06 % 
-Markdown                 3 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   29.59 % 
-HTML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Python                   3 hrs 44 mins       ██████████████████████░░░   87.55 % 
+HTML                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 
 🔥 Editors: 
-VS Code                  10 hrs              ████████████████████████░   97.13 % 
-Claude Code              17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+VS Code                  3 hrs 58 mins       ███████████████████████░░   93.09 % 
+Claude Code              17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
 
 💻 Operating System: 
-Linux                    8 hrs 12 mins       ████████████████████░░░░░   79.64 % 
-Mac                      2 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
+Linux                    4 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 mins (3.41%)
+⏱ AI Coding Time: 21 mins (8.23%)
 
-✍️ 176 lines written by AI, 644 lines written by hand (21.46% AI-written)
+✍️ 176 lines written by AI, 271 lines written by hand (39.37% AI-written)
 
 🔤 2,597,384 Input Tokens, 8,371 Output Tokens
 
@@ -69,14 +68,14 @@ Mac                      2 hrs 5 mins        █████░░░░░░�
 Sonnet                   184 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 21.46% of written lines came from AI
+⚖️ Balanced with AI — 39.37% of written lines came from AI
 📝 Concise Prompter — average 117 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🔍 Hands-On Reviewer — 88.37% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 73.33% of changed lines were hand-edited
 ```
 
 
- Last Updated on 03/08/2026 02:33:25 UTC
+ Last Updated on 04/08/2026 02:12:54 UTC
 <!--END_SECTION:waka-->
 
 <br>
