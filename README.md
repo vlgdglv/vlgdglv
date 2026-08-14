@@ -38,24 +38,25 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 20 mins       █████████████████████████   98.43 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Python                   3 hrs 8 mins        ████████████████████████░   97.98 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-Claude Code              1 hr 55 mins        ████████████████████░░░░░   80.52 % 
-VS Code                  27 mins             █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+Claude Code              1 hr 55 mins        ███████████████░░░░░░░░░░   60.01 % 
+VS Code                  1 hr 16 mins        ██████████░░░░░░░░░░░░░░░   39.99 % 
 
 💻 Operating System: 
-Linux                    2 hrs 23 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 57 mins (81.99%)
+⏱ AI Coding Time: 1 hr 57 mins (61.11%)
 
-✍️ 1,365 lines written by AI, 356 lines written by hand (79.31% AI-written)
+✍️ 1,365 lines written by AI, 361 lines written by hand (79.08% AI-written)
 
 🔤 6,006,139 Input Tokens, 106,681 Output Tokens
 
@@ -66,14 +67,14 @@ Linux                    2 hrs 23 mins       ███████████�
 Sonnet                   1,378 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 79.31% of written lines came from AI
+🤖 AI-Driven — 79.08% of written lines came from AI
 📚 Verbose Prompter — average 7,941 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 20.76% of changed lines were hand-edited
+🚀 High AI Trust — 21.12% of changed lines were hand-edited
 ```
 
 
- Last Updated on 13/08/2026 01:44:40 UTC
+ Last Updated on 14/08/2026 01:42:32 UTC
 <!--END_SECTION:waka-->
 
 <br>
