@@ -38,23 +38,25 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 8 mins        ████████████████████████░   97.98 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Python                   3 hrs 12 mins       ██████████████████████░░░   87.13 % 
+Other                    24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-Claude Code              1 hr 55 mins        ███████████████░░░░░░░░░░   60.01 % 
-VS Code                  1 hr 16 mins        ██████████░░░░░░░░░░░░░░░   39.99 % 
+Claude Code              1 hr 55 mins        █████████████░░░░░░░░░░░░   52.05 % 
+VS Code                  1 hr 43 mins        ████████████░░░░░░░░░░░░░   46.93 % 
+OpenClaw                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 💻 Operating System: 
-Linux                    3 hrs 12 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 57 mins (61.11%)
+⏱ AI Coding Time: 2 hrs 21 mins (64.08%)
 
 ✍️ 1,365 lines written by AI, 361 lines written by hand (79.08% AI-written)
 
@@ -62,19 +64,19 @@ Linux                    3 hrs 12 mins       ███████████�
 
 💵 $19.62 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 13 AI Prompts
+🧠 3 AI Sessions, 45 AI Prompts
 
 Sonnet                   1,378 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 79.08% of written lines came from AI
-📚 Verbose Prompter — average 7,941 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📚 Verbose Prompter — average 2,462 characters per prompt
+🔁 Iterative Prompter — average 15 prompts per session
 🚀 High AI Trust — 21.12% of changed lines were hand-edited
 ```
 
 
- Last Updated on 16/08/2026 01:07:09 UTC
+ Last Updated on 17/08/2026 01:04:48 UTC
 <!--END_SECTION:waka-->
 
 <br>
