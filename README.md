@@ -38,46 +38,46 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   10 hrs 4 mins       ████████████████████████░   96.41 % 
+Python                   9 hrs 44 mins       ███████████████████████░░   92.10 % 
 YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+HTML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+Docker                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 🔥 Editors: 
-Claude Code              6 hrs               ██████████████░░░░░░░░░░░   57.39 % 
-VS Code                  4 hrs 27 mins       ███████████░░░░░░░░░░░░░░   42.61 % 
+Claude Code              5 hrs 46 mins       ██████████████░░░░░░░░░░░   54.63 % 
+VS Code                  4 hrs 48 mins       ███████████░░░░░░░░░░░░░░   45.37 % 
 
 💻 Operating System: 
-Linux                    10 hrs 25 mins      █████████████████████████   99.71 % 
-Mac                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Linux                    10 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 45 mins (74.25%)
+⏱ AI Coding Time: 7 hrs 37 mins (72.11%)
 
-✍️ 7,215 lines written by AI, 109 lines written by hand (98.51% AI-written)
+✍️ 6,476 lines written by AI, 110 lines written by hand (98.33% AI-written)
 
-🔤 3,136,841 Input Tokens, 467,623 Output Tokens
+🔤 2,961,189 Input Tokens, 419,364 Output Tokens
 
-💵 $25.34 Estimated AI Cost This Week
+💵 $22.67 Estimated AI Cost This Week
 
 🧠 7 AI Sessions, 131 AI Prompts
 
-Sonnet                   7,318 lines         █████████████████████████   100.00 % 
+Sonnet                   6,372 lines         ████████████████████████░   96.88 % 
+Haiku                    205 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.51% of written lines came from AI
-📚 Verbose Prompter — average 4,086 characters per prompt
+🤖 AI-Driven — 98.33% of written lines came from AI
+📚 Verbose Prompter — average 3,677 characters per prompt
 🔁 Iterative Prompter — average 19 prompts per session
-🚀 High AI Trust — 1.68% of changed lines were hand-edited
+🚀 High AI Trust — 1.88% of changed lines were hand-edited
 ```
 
 
- Last Updated on 26/08/2026 01:06:55 UTC
+ Last Updated on 27/08/2026 07:13:54 UTC
 <!--END_SECTION:waka-->
 
 <br>
