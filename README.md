@@ -38,24 +38,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 28 mins        ████████████████░░░░░░░░░   63.74 % 
-Markdown                 20 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-HTML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-Docker                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Python                   1 hr 31 mins        ███████████████░░░░░░░░░░   61.96 % 
+Markdown                 20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+HTML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+Docker                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
 
 🔥 Editors: 
-VS Code                  1 hr 13 mins        █████████████░░░░░░░░░░░░   52.72 % 
-Claude Code              1 hr 5 mins         ████████████░░░░░░░░░░░░░   47.28 % 
+VS Code                  1 hr 21 mins        ██████████████░░░░░░░░░░░   55.48 % 
+Claude Code              1 hr 5 mins         ███████████░░░░░░░░░░░░░░   44.52 % 
 
 💻 Operating System: 
-Linux                    2 hrs 18 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 24 mins (61.15%)
+⏱ AI Coding Time: 1 hr 24 mins (57.58%)
 
 ✍️ 1,010 lines written by AI, 14 lines written by hand (98.63% AI-written)
 
@@ -77,7 +77,7 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 01/09/2026 03:30:12 UTC
+ Last Updated on 02/09/2026 02:48:19 UTC
 <!--END_SECTION:waka-->
 
 <br>
