@@ -38,45 +38,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 22 mins        ███████████████████░░░░░░   75.69 % 
-Markdown                 14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-CSV                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+CSV                      5 mins              █████████████████░░░░░░░░   66.65 % 
+Python                   2 mins              ████████░░░░░░░░░░░░░░░░░   33.35 % 
 
 🔥 Editors: 
-VS Code                  56 mins             █████████████░░░░░░░░░░░░   51.63 % 
-Claude Code              52 mins             ████████████░░░░░░░░░░░░░   48.37 % 
+VS Code                  8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 49 mins        █████████████████████████   100.00 % 
+Linux                    8 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 5 mins (60.51%)
-
-✍️ 803 lines written by AI, 11 lines written by hand (98.65% AI-written)
-
-🔤 441,152 Input Tokens, 22,163 Output Tokens
-
-💵 $3.04 Estimated AI Cost This Week
-
-🧠 5 AI Sessions, 16 AI Prompts
-
-Sonnet                   806 lines           █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 98.65% of written lines came from AI
-📚 Verbose Prompter — average 2,584 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 2.07% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 05/09/2026 02:53:41 UTC
+ Last Updated on 06/09/2026 02:52:20 UTC
 <!--END_SECTION:waka-->
 
 <br>
