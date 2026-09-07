@@ -38,24 +38,44 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-CSV                      5 mins              █████████████████░░░░░░░░   66.65 % 
-Python                   2 mins              ████████░░░░░░░░░░░░░░░░░   33.35 % 
+CSV                      5 mins              ███████████████░░░░░░░░░░   60.50 % 
+Python                   3 mins              █████████░░░░░░░░░░░░░░░░   35.44 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+Cuda                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.00 % 
+VS Code                  9 mins              ████████████████████████░   95.16 % 
+Agent                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
 
 💻 Operating System: 
-Linux                    8 mins              █████████████████████████   100.00 % 
+Linux                    8 mins              ███████████████████████░░   91.28 % 
+Mac                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 0 secs (4.84%)
+
+✍️ 0 lines written by AI, 155 lines written by hand (0.0% AI-written)
+
+🔤 17 Input Tokens, 17 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 70 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 06/09/2026 02:52:20 UTC
+ Last Updated on 07/09/2026 02:49:54 UTC
 <!--END_SECTION:waka-->
 
 <br>
