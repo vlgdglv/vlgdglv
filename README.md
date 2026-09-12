@@ -38,47 +38,49 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 3 mins         ████████████████████████░   97.05 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-Cuda                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Other                    1 hr 22 mins        ████████░░░░░░░░░░░░░░░░░   31.43 % 
+Python                   1 hr 14 mins        ███████░░░░░░░░░░░░░░░░░░   28.37 % 
+Text                     1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
+Checksums                38 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🔥 Editors: 
-Claude Code              59 mins             ███████████████████████░░   90.07 % 
-VS Code                  6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Agent                    2 hrs 33 mins       ███████████████░░░░░░░░░░   58.86 % 
+Claude Code              1 hr 9 mins         ███████░░░░░░░░░░░░░░░░░░   26.56 % 
+Cursor                   27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+VS Code                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 
 💻 Operating System: 
-Linux                    1 hr 5 mins         █████████████████████████   99.30 % 
-Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Linux                    4 hrs 20 mins       █████████████████████████   99.82 % 
+Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr (91.52%)
+⏱ AI Coding Time: 4 hrs 11 mins (96.35%)
 
 ✍️ 206 lines written by AI, 157 lines written by hand (56.75% AI-written)
 
-🔤 686,047 Input Tokens, 60,440 Output Tokens
+🔤 906,354 Input Tokens, 154,923 Output Tokens
 
-💵 $3.92 Estimated AI Cost This Week
+💵 $6.33 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 13 AI Prompts
+🧠 7 AI Sessions, 88 AI Prompts
 
 Sonnet                   206 lines           █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 ⚖️ Balanced with AI — 56.75% of written lines came from AI
-📚 Verbose Prompter — average 6,024 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📚 Verbose Prompter — average 5,096 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
 🚀 High AI Trust — 43.25% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/09/2026 02:56:55 UTC
+ Last Updated on 12/09/2026 03:03:41 UTC
 <!--END_SECTION:waka-->
 
 <br>
