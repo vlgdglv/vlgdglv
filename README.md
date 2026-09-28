@@ -28,7 +28,7 @@
 <!-- Empty for now but will be full little by little🤘👊💪-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C379%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C381%20hrs%2057%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-126%20hrs%204%20mins-blue?style=flat)
 
@@ -38,48 +38,47 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Bash                     3 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   28.87 % 
-Python                   2 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
-Other                    2 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
-TeX                      2 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
-Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+Bash                     3 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   32.65 % 
+Python                   2 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
+Other                    2 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
+TeX                      2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
 
 🔥 Editors: 
-Cursor                   5 hrs 45 mins       █████████████░░░░░░░░░░░░   51.11 % 
-Agent                    2 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   26.60 % 
-VS Code                  2 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
-Claude Code              18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+Cursor                   6 hrs 21 mins       █████████████░░░░░░░░░░░░   53.84 % 
+Agent                    2 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   25.35 % 
+VS Code                  2 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
+Claude Code              15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 
 💻 Operating System: 
-Linux                    11 hrs 15 mins      █████████████████████████   99.94 % 
-Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Linux                    11 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 21 mins (38.63%)
+⏱ AI Coding Time: 4 hrs 18 mins (36.43%)
 
-✍️ 621 lines written by AI, 706 lines written by hand (46.8% AI-written)
+✍️ 621 lines written by AI, 733 lines written by hand (45.86% AI-written)
 
-🔤 1,105,121 Input Tokens, 442,954 Output Tokens
+🔤 1,101,267 Input Tokens, 442,333 Output Tokens
 
-💵 $9.52 Estimated AI Cost This Week
+💵 $9.45 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 349 AI Prompts
+🧠 15 AI Sessions, 347 AI Prompts
 
 Sonnet                   621 lines           █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 46.8% of written lines came from AI
-📚 Verbose Prompter — average 5,086 characters per prompt
-🔁 Iterative Prompter — average 22 prompts per session
-🔍 Hands-On Reviewer — 63.51% of changed lines were hand-edited
+⚖️ Balanced with AI — 45.86% of written lines came from AI
+📚 Verbose Prompter — average 5,111 characters per prompt
+🔁 Iterative Prompter — average 23 prompts per session
+🔍 Hands-On Reviewer — 64.17% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/09/2026 03:36:04 UTC
+ Last Updated on 28/09/2026 03:34:31 UTC
 <!--END_SECTION:waka-->
 
 <br>
