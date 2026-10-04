@@ -38,18 +38,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Bash                     6 hrs 18 mins       ████████████████░░░░░░░░░   64.42 % 
-Python                   2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
-YAML                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Python                   6 hrs 29 mins       ████████████░░░░░░░░░░░░░   47.08 % 
+Bash                     6 hrs 1 min         ███████████░░░░░░░░░░░░░░   43.78 % 
+YAML                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🔥 Editors: 
-Cursor                   9 hrs 27 mins       ████████████████████████░   96.43 % 
-VS Code                  20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Cursor                   13 hrs 46 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    9 hrs 48 mins       █████████████████████████   100.00 % 
+Linux                    13 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -59,7 +58,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 03/10/2026 03:45:20 UTC
+ Last Updated on 04/10/2026 04:14:52 UTC
 <!--END_SECTION:waka-->
 
 <br>
