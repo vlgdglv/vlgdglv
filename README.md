@@ -28,7 +28,7 @@
 <!-- Empty for now but will be full little by little🤘👊💪-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C397%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C402%20hrs%202%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-126%20hrs%204%20mins-blue?style=flat)
 
@@ -38,11 +38,11 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   9 hrs 55 mins       █████████████████░░░░░░░░   67.22 % 
-Bash                     3 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
-YAML                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-C++                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Python                   10 hrs 32 mins      ██████████████████░░░░░░░   71.45 % 
+Bash                     3 hrs               █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
+YAML                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
 Cursor                   14 hrs 45 mins      █████████████████████████   100.00 % 
@@ -58,7 +58,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 06/10/2026 04:48:44 UTC
+ Last Updated on 07/10/2026 04:14:33 UTC
 <!--END_SECTION:waka-->
 
 <br>
